@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **[Next.js]**  
 - 💬 Ask me about **[Web Dev]**  
 - 📫 How to reach me **[bouonwajdy@gmail.com]**  
-- ⚡ Fun fact: **[I make living out of the web]**
+- ⚡ Fun fact: **[If it runs , DO NOT TOUCH IT]**
 
 ---
 
